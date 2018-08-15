@@ -15,3 +15,4 @@ class Solution(object):
                 step = - step
             line += step
         return ''.join(arr)
+    
