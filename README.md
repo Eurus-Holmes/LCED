@@ -15,5 +15,5 @@ index | Title | Solution | Difficulty |
 8-17_7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Integer.py) | Easy |
 8-18_8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/String%20to%20Integer%20(atoi).py) | Medium |
 8-19_9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Number.py) | Easy |
-
+8-20_10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Regular%20Expression%20Matching.py) | Hard |
 
