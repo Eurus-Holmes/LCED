@@ -25,4 +25,5 @@ index | Title | Solution | Difficulty |
 2018_8-25_17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Letter%20Combinations%20of%20a%20Phone%20Number.py) | Medium |
 2018_8-26_18 | [4Sum](https://leetcode.com/problems/4sum/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/4Sum.py) | Medium |
 2018_8-27_19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Nth%20Node%20From%20End%20of%20List.py) | Medium |
+2018_8-28_20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Parentheses.py) | Easy |
 
