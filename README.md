@@ -27,4 +27,5 @@ index | Title | Solution | Difficulty |
 2018_8-27_19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Nth%20Node%20From%20End%20of%20List.py) | Medium |
 2018_8-28_20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Parentheses.py) | Easy |
 2018_8-29_21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Merge%20Two%20Sorted%20Lists.py) | Easy |
+2018_8-29_22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Generate%20Parentheses.py) | Medium |
 
