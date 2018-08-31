@@ -30,5 +30,5 @@ index | Title | Solution | Difficulty |
 2018_8-29_22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Generate%20Parentheses.py) | Medium |
 2018_8-29_23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Merge%20k%20Sorted%20Lists.py) | Hard |
 2018_8-30_24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Swap%20Nodes%20in%20Pairs.py) | Medium |
-2018_8-31_25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Nodes%20in%20k-Group.py) | Medium |
+2018_8-31_25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Nodes%20in%20k-Group.py) | Hard |
 
