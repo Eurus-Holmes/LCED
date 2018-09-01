@@ -31,4 +31,5 @@ index | Title | Solution | Difficulty |
 2018_8-29_23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Merge%20k%20Sorted%20Lists.py) | Hard |
 2018_8-30_24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Swap%20Nodes%20in%20Pairs.py) | Medium |
 2018_8-31_25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Nodes%20in%20k-Group.py) | Hard |
+2018_9-01_26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
 
