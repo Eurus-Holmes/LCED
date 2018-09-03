@@ -34,4 +34,5 @@ index | Title | Solution | Difficulty |
 2018_9-01_26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.py) | Easy |
 2018_9-02_27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Element.py) | Easy |
 2018_9-03_28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Implement%20strStr().py) | Easy |
+2018_9-04_29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Divide%20Two%20Integers.py) | Medium |
 
