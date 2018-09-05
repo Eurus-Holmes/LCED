@@ -35,4 +35,6 @@ index | Title | Solution | Difficulty |
 2018_9-02_27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Element.py) | Easy |
 2018_9-03_28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Implement%20strStr().py) | Easy |
 2018_9-04_29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Divide%20Two%20Integers.py) | Medium |
+2018_9-05_30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Substring%20with%20Concatenation%20of%20All%20Words.py) | Hard |
+
 
