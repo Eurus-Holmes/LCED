@@ -38,5 +38,6 @@ index | Title | Solution | Difficulty |
 2018_9-05_30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Substring%20with%20Concatenation%20of%20All%20Words.py) | Hard |
 2018_9-06_31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Next%20Permutation.py) | Medium |
 2018_9-07_32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Valid%20Parentheses.py) | Hard |
+2018_9-08_33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Search%20in%20Rotated%20Sorted%20Array.py) | Medium |
 
 
