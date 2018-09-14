@@ -44,3 +44,4 @@ index | Title | Solution | Difficulty |
 2018_9-11_36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Sudoku.py) | Medium |
 2018_9-12_37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Sudoku%20Solver.py) | Hard |
 2018_9-13_38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Count%20and%20Say.py) | Easy |
+2018_9-14_39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combination%20Sum.py) | Medium |
