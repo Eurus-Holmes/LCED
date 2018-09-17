@@ -47,3 +47,4 @@ index | Title | Solution | Difficulty |
 2018_9-14_39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combination%20Sum.py) | Medium |
 2018_9-15_40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combination%20Sum%20II.py) | Medium |
 2018_9-16_41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/First%20Missing%20Positive.py) | Hard |
+2018_9-17_42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Trapping%20Rain%20Water.py) | Hard |
