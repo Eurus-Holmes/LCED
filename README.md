@@ -51,3 +51,4 @@ index | Title | Solution | Difficulty |
 2018_9-18_43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [C++](https://github.com/Eurus-Holmes/LCED/blob/master/Multiply%20Strings.cpp) | Medium |
 2018_9-19_44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Wildcard%20Matching.py) | Hard |
 2018_9-20_45 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Jump%20Game.py) | Medium |
+2018_9-20_46 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Jump%20Game%20II.py) | Hard |
