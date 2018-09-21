@@ -29,4 +29,4 @@ class Solution(object):
             p_index += 1
         # If finish scanning both string and pattern, then it matches well
         return p_index == len(p)
-        
+  
