@@ -14,3 +14,4 @@ class Solution(object):
                 longest = reach
             reach = max(reach, nums[i] + i)
         return counter
+    
