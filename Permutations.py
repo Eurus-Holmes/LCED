@@ -13,3 +13,5 @@ class Solution(object):
             for j in self.permute(nums[:i]+nums[i+1:]):
                 res.append([nums[i]]+j)
         return res
+
+    
