@@ -54,3 +54,4 @@ index | Title | Solution | Difficulty |
 2018_9-20_46 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Jump%20Game%20II.py) | Hard |
 2018_9-21_47 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Permutations.py) | Medium |
 2018_9-21_48 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Permutations%20II.py) | Medium |
+2018_9-22_49 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Image.java) | Medium |
