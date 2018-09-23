@@ -56,3 +56,4 @@ index | Title | Solution | Difficulty |
 2018_9-21_48 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Permutations%20II.py) | Medium |
 2018_9-22_49 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Image.java) | Medium |
 2018_9-23_50 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Group%20Anagrams.java) | Medium |
+2018_9-23_51 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Pow(x%2C%20n).java) | Medium |
