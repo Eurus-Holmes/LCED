@@ -59,3 +59,4 @@ index | Title | Solution | Difficulty |
 2018_9-23_51 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Pow(x%2C%20n).java) | Medium |
 2018_9-24_52 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/N-Queens.java) | Hard |
 2018_9-25_53 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/N-Queens%20II.java) | Hard |
+2018_9-26_54 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Subarray.java) | Easy |
