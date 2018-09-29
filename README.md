@@ -62,3 +62,4 @@ index | Title | Solution | Difficulty |
 2018_9-26_54 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Subarray.java) | Easy |
 2018_9-27_55 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Spiral%20Matrix.java) | Medium |
 2018_9-28_56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Merge%20Intervals.java) | Medium |
+2018_9-29_57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Insert%20Interval.java) | Hard |
