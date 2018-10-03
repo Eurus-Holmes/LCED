@@ -68,3 +68,5 @@ index | Title | Solution | Difficulty |
 2018_10-01_60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Permutation%20Sequence.java) | Medium |
 2018_10-02_61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20List.java) | Medium |
 2018_10-03_62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Paths.java) | Medium |
+2018_10-03_63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Paths%20II.java) | Medium |
+
