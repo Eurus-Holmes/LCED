@@ -71,4 +71,5 @@ index | Title | Solution | Difficulty |
 2018_10-03_63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Paths%20II.java) | Medium |
 2018_10-04_64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Path%20Sum.java) | Medium |
 2018_10-04_65 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Number.java) | Hard |
+2018_10-04_66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Plus%20One.java) | Easy |
 
