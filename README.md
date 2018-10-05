@@ -73,4 +73,5 @@ index | Title | Solution | Difficulty |
 2018_10-04_65 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Number.java) | Hard |
 2018_10-04_66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Plus%20One.java) | Easy |
 2018_10-04_67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20Binary.java) | Easy |
+2018_10-05_68 | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Text%20Justification.java) | Hard |
 
