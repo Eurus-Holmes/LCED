@@ -76,4 +76,5 @@ index | Title | Solution | Difficulty |
 2018_10-05_68 | [Text Justification](https://leetcode.com/problems/text-justification/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Text%20Justification.java) | Hard |
 2018_10-06_69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sqrt(x).java) | Easy |
 2018_10-06_70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Climbing%20Stairs.java) | Easy |
+2018_10-07_71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Simplify%20Path.java) | Medium |
 
