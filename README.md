@@ -78,4 +78,5 @@ index | Title | Solution | Difficulty |
 2018_10-06_70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Climbing%20Stairs.java) | Easy |
 2018_10-07_71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Simplify%20Path.java) | Medium |
 2018_10-08_72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Edit%20Distance.java) | Hard |
+2018_10-09_73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Set%20Matrix%20Zeroes.java) | Medium |
 
