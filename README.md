@@ -80,4 +80,5 @@ index | Title | Solution | Difficulty |
 2018_10-08_72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Edit%20Distance.java) | Hard |
 2018_10-09_73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Set%20Matrix%20Zeroes.java) | Medium |
 2018_10-10_74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Search%20a%202D%20Matrix.java) | Medium |
+2018_10-11_75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sort%20Colors.java) | Medium |
 
