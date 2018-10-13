@@ -84,4 +84,4 @@ index | Title | Solution | Difficulty |
 2018_10-12_76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Window%20Substring.java) | Hard |
 2018_10-13_77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Combinations.java) | Medium |
 2018_10-13_77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combinations.py) | Medium |
-
+2018_10-14_78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets.java) | Medium |
