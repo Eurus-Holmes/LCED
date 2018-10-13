@@ -82,4 +82,5 @@ index | Title | Solution | Difficulty |
 2018_10-10_74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Search%20a%202D%20Matrix.java) | Medium |
 2018_10-11_75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sort%20Colors.java) | Medium |
 2018_10-12_76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Window%20Substring.java) | Hard |
+2018_10-13_77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Combinations.java) | Medium |
 
