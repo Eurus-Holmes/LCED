@@ -86,4 +86,5 @@ index | Title | Solution | Difficulty |
 2018_10-13_77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combinations.py) | Medium |
 2018_10-14_78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets.java) | Medium |
 2018_10-14_78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [python](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets.py) | Medium |
+2018_10-15_79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Search.java) | Medium |
 
