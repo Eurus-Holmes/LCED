@@ -87,4 +87,5 @@ index | Title | Solution | Difficulty |
 2018_10-14_78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets.java) | Medium |
 2018_10-14_78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [python](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets.py) | Medium |
 2018_10-15_79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Search.java) | Medium |
+2018_10-16_80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20Array%20II.java) | Medium |
 
