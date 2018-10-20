@@ -91,5 +91,6 @@ index | Title | Solution | Difficulty |
 2018_10-17_81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Search%20in%20Rotated%20Sorted%20Array%20II.java) | Medium |
 2018_10-18_82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20List%20II.java) | Medium |
 2018_10-19_83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20List.java) | Easy |
+2018_10-20_84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Rectangle%20in%20Histogram.java) | Hard |
 
 
