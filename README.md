@@ -93,5 +93,6 @@ index | Title | Solution | Difficulty |
 2018_10-19_83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicates%20from%20Sorted%20List.java) | Easy |
 2018_10-20_84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Rectangle%20in%20Histogram.java) | Hard |
 2018_10-21_85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximal%20Rectangle.java) | Hard |
+2018_10-22_86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Partition%20List.java) | Medium |
 
 
