@@ -94,5 +94,6 @@ index | Title | Solution | Difficulty |
 2018_10-20_84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Rectangle%20in%20Histogram.java) | Hard |
 2018_10-21_85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximal%20Rectangle.java) | Hard |
 2018_10-22_86 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Partition%20List.java) | Medium |
+2018_10-23_87 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Scramble%20String.java) | Hard |
 
 
