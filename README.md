@@ -99,5 +99,6 @@ index | Title | Solution | Difficulty |
 2018_10-25_89 | [Gray Code](https://leetcode.com/problems/gray-code/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Gray%20Code.java) | Medium |
 2018_10-26_90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Subsets%20II.java) | Medium |
 2018_10-27_91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Decode%20Ways.java) | Medium |
+2018_10-28_92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Linked%20List%20II.java) | Medium |
 
 
