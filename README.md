@@ -103,5 +103,6 @@ index | Title | Solution | Difficulty |
 2018_10-29_93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Restore%20IP%20Addresses.java) | Medium |
 2018_10-30_94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Inorder%20Traversal.java) | Medium |
 2018_10-31_95 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Binary%20Search%20Trees.java) | Medium |
+2018_11-01_96 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Binary%20Search%20Trees%20II.java) | Medium |
 
 
