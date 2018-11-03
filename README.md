@@ -106,6 +106,7 @@ index | Title | Solution | Difficulty |
 2018_11-01_96 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Unique%20Binary%20Search%20Trees%20II.java) | Medium |
 2018_11-02_97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Interleaving%20String.java) | Hard |
 2018_11-03_98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Validate%20Binary%20Search%20Tree.java) | Medium |
+2018_11-03_99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Recover%20Binary%20Search%20Tree.java) | Hard |
 
 
 
