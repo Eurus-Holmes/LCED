@@ -111,6 +111,8 @@ index | Title | Solution | Difficulty |
 2018_11-04_101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Symmetric%20Tree.java) | Easy |
 2018_11-05_102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Level%20Order%20Traversal.java) | Medium |
 2018_11-06_103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java) | Medium |
+2018_11-07_104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Depth%20of%20Binary%20Tree.java) | Easy |
+
 
 
 
