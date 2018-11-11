@@ -115,6 +115,7 @@ index | Title | Solution | Difficulty |
 2018_11-08_105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java) | Medium |
 2018_11-09_106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java) | Medium |
 2018_11-10_107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Level%20Order%20Traversal%20II.java) | Easy |
+2018_11-11_108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java) | Easy |
 
 
 
