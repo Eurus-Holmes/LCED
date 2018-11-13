@@ -118,6 +118,7 @@ index | Title | Solution | Difficulty |
 2018_11-11_108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java) | Easy |
 2018_11-12_109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.java) | Medium |
 2018_11-13_110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Balanced%20Binary%20Tree.java) | Easy |
+2018_11-14_111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Depth%20of%20Binary%20Tree.java) | Easy |
 
 
 
