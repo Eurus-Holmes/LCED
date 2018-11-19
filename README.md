@@ -123,6 +123,7 @@ index | Title | Solution | Difficulty |
 2018_11-16_113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Path%20Sum%20II.java) | Medium |
 2018_11-17_114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Flatten%20Binary%20Tree%20to%20Linked%20List.java) | Medium |
 2018_11-18_115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Distinct%20Subsequences.java) | Hard |
+2018_11-19_116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) | Medium |
 
 
 
