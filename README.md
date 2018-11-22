@@ -126,6 +126,7 @@ index | Title | Solution | Difficulty |
 2018_11-19_116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java) | Medium |
 2018_11-20_117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java) | Medium |
 2018_11-21_118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Pascal's%20Triangle.java) | Easy |
+2018_11-22_119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Pascal's%20Triangle%20II.java) | Easy |
 
 
 
