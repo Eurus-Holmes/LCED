@@ -133,6 +133,7 @@ index | Title | Solution | Difficulty |
 2018_11-26_123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.java) | Hard |
 2018_11-27_124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Maximum%20Path%20Sum.java) | Hard |
 2018_11-28_125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Palindrome.java) | Easy |
+2018_11-29_126 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Ladder.java) | Medium |
 
 
 
