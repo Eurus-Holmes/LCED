@@ -135,6 +135,7 @@ index | Title | Solution | Difficulty |
 2018_11-28_125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Palindrome.java) | Easy |
 2018_11-29_126 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Ladder.java) | Medium |
 2018_11-30_127 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Ladder%20II.java) | Hard |
+2018_12-01_128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Consecutive%20Sequence.java) | Hard |
 
 
 
