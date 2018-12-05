@@ -139,6 +139,7 @@ index | Title | Solution | Difficulty |
 2018_12-02_129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sum%20Root%20to%20Leaf%20Numbers.java) | Medium |
 2018_12-03_130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Surrounded%20Regions.java) | Medium |
 2018_12-04_131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Partitioning.java) | Medium |
+2018_12-05_132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Partitioning%20II.java) | Hard |
 
 
 
