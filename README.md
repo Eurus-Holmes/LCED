@@ -142,6 +142,7 @@ index | Title | Solution | Difficulty |
 2018_12-05_132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Partitioning%20II.java) | Hard |
 2018_12-06_133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Clone%20Graph.java) | Medium |
 2018_12-07_134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Gas%20Station.java) | Medium |
+2018_12-08_135 | [Candy](https://leetcode.com/problems/candy/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Candy.java) | Hard |
 
 
 
