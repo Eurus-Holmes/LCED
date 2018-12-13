@@ -147,6 +147,7 @@ index | Title | Solution | Difficulty |
 2018_12-10_137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Single%20Number%20II.java) | Medium |
 2018_12-11_138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Copy%20List%20with%20Random%20Pointer.java) | Medium |
 2018_12-12_139 | [Word Break](https://leetcode.com/problems/word-break/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Break.java) | Medium |
+2018_12-13_140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Break%20II.java) | Hard |
 
 
 
