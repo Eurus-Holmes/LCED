@@ -18,10 +18,11 @@
 ```
 
 # 解题思路
-这个连同I都是很经典的题啦，刷CC150时候就折磨了半天。
+这个连同I都是很经典的题啦。
 
 其实就推几个递推公式就好。。首先看图（图引用自CC150）：
 
+![Figure 1](https://github.com/Eurus-Holmes/LCED/raw/master/images/Multiply-Strings.png)
  
 
 从链表起始处到环入口长度为：a，从环入口到Faster和Slower相遇点长度为：x，整个环长为：c。
