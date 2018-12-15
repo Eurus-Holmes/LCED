@@ -30,7 +30,7 @@ We go through each node one by one and record each node's reference (or memory a
 If the current node is null, we have reached the end of the list and it must not be cyclic. 
 If current node’s reference is in the hash table, then return true.
 
-### Complexity analysis
+**Complexity analysis**
 
   - Time complexity : $O(n)$. We visit each of the nn elements in the list at most once. 
   Adding a node to the hash table costs only $O(1)$ time.
