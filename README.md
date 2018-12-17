@@ -151,6 +151,7 @@ index | Title | Solution | Difficulty |
 2018_12-14_141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Linked%20List%20Cycle.java) | Easy |
 2018_12-15_142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Linked%20List%20Cycle%20II.java) | Medium |
 2018_12-16_143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Reorder%20List.java) | Medium |
+2018_12-17_144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Preorder%20Traversal.java) | Medium |
 
 
 
