@@ -156,6 +156,8 @@ index | Title | Solution | Difficulty |
 2018_12-19_146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/LRU%20Cache.java) | Hard |
 2018_12-20_147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Insertion%20Sort%20List.java) | Medium |
 2018_12-21_148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sort%20List.java) | Medium |
+2018_12-22_149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Max%20Points%20on%20a%20Line.java) | Hard |
+
 
 
 
