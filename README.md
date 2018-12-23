@@ -157,6 +157,7 @@ index | Title | Solution | Difficulty |
 2018_12-20_147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Insertion%20Sort%20List.java) | Medium |
 2018_12-21_148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Sort%20List.java) | Medium |
 2018_12-22_149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Max%20Points%20on%20a%20Line.java) | Hard |
+2018_12-23_150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Evaluate%20Reverse%20Polish%20Notation.java) | Medium |
 
 
 
