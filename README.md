@@ -159,6 +159,7 @@ index | Title | Solution | Difficulty |
 2018_12-22_149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Max%20Points%20on%20a%20Line.java) | Hard |
 2018_12-23_150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Evaluate%20Reverse%20Polish%20Notation.java) | Medium |
 2018_12-23_151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Words%20in%20a%20String.java) | Medium |
+2018_12-24_152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Product%20Subarray.java) | Medium |
 
 
 
