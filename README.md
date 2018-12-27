@@ -162,6 +162,7 @@ index | Title | Solution | Difficulty |
 2018_12-24_152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Product%20Subarray.java) | Medium |
 2018_12-25_153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array.java) | Medium |
 2018_12-26_154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java) | Hard |
+2018_12-27_155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Min%20Stack.java) | Easy |
 
 
 
