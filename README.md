@@ -165,8 +165,7 @@ index | Title | Solution | Difficulty |
 2018_12-27_155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Min%20Stack.java) | Easy |
 2018_12-28_156 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Intersection%20of%20Two%20Linked%20Lists.java) | Easy |
 2018_12-29_157 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Peak%20Element.java) | Medium |
-
-
+2018_12-30_158 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Gap.java) | Hard |
 
 
 
