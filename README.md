@@ -167,6 +167,7 @@ index | Title | Solution | Difficulty |
 2018_12-29_157 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Peak%20Element.java) | Medium |
 2018_12-30_158 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Gap.java) | Hard |
 2018_12-31_159 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Compare%20Version%20Numbers.java) | Medium |
+2019_01-01_160 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Fraction%20to%20Recurring%20Decimal.java) | Medium |
 
 
 
