@@ -168,6 +168,7 @@ index | Title | Solution | Difficulty |
 2018_12-30_158 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Gap.java) | Hard |
 2018_12-31_159 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Compare%20Version%20Numbers.java) | Medium |
 2019_01-01_160 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Fraction%20to%20Recurring%20Decimal.java) | Medium |
+2019_01-02_161 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java) | Easy |
 
 
 
