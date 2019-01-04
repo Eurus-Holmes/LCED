@@ -170,10 +170,7 @@ index | Title | Solution | Difficulty |
 2019_01-01_160 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Fraction%20to%20Recurring%20Decimal.java) | Medium |
 2019_01-02_161 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java) | Easy |
 2019_01-03_162 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Excel%20Sheet%20Column%20Title.java) | Easy |
-
-
-
-
+2019_01-04_163 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Majority%20Element.java) | Easy |
 
 
 
