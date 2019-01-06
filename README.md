@@ -172,8 +172,7 @@ index | Title | Solution | Difficulty |
 2019_01-03_162 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Excel%20Sheet%20Column%20Title.java) | Easy |
 2019_01-04_163 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Majority%20Element.java) | Easy |
 2019_01-05_164 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Excel%20Sheet%20Column%20Number.java) | Easy |
-
-
+2019_01-06_165 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Factorial%20Trailing%20Zeroes.java) | Easy |
 
 
 
