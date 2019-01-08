@@ -174,7 +174,7 @@ index | Title | Solution | Difficulty |
 2019_01-05_164 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Excel%20Sheet%20Column%20Number.java) | Easy |
 2019_01-06_165 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Factorial%20Trailing%20Zeroes.java) | Easy |
 2019_01-07_166 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Search%20Tree%20Iterator.java) | Medium |
-
+2019_01-08_167 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Dungeon%20Game.java) | Hard |
 
 
 
