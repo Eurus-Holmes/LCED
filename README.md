@@ -176,7 +176,7 @@ index | Title | Solution | Difficulty |
 2019_01-07_166 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Search%20Tree%20Iterator.java) | Medium |
 2019_01-08_167 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Dungeon%20Game.java) | Hard |
 2019_01-09_168 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Combine%20Two%20Tables.sql) | Easy |
-
+2019_01-10_169 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Second%20Highest%20Salary.sql) | Easy |
 
 
 
