@@ -179,10 +179,7 @@ index | Title | Solution | Difficulty |
 2019_01-10_169 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Second%20Highest%20Salary.sql) | Easy |
 2019_01-11_170 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Nth%20Highest%20Salary.sql) | Medium |
 2019_01-12_171 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Number.java) | Medium |
-
-
-
-
+2019_01-13_172 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Repeated%20DNA%20Sequences.java) | Medium |
 
 
 
