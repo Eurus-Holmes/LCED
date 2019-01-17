@@ -181,6 +181,7 @@ index | Title | Solution | Difficulty |
 2019_01-12_171 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Number.java) | Medium |
 2019_01-13_172 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Repeated%20DNA%20Sequences.java) | Medium |
 2019_01-14_173 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Array.java) | Easy |
+2019_01-15_174 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Rank%20Scores.sql) | Medium |
 
 
 
