@@ -187,8 +187,7 @@ index | Title | Solution | Difficulty |
 2019_01-17_177 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Duplicate%20Emails.sql) | Easy |
 2019_01-17_178 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Customers%20Who%20Never%20Order.sql) | Easy |
 2019_01-17_179 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Department%20Highest%20Salary.sql) | Medium |
-
-
+2019_01-17_180 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Department%20Top%20Three%20Salaries.sql) | Hard |
 
 
 
