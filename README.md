@@ -189,6 +189,7 @@ index | Title | Solution | Difficulty |
 2019_01-17_179 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Department%20Highest%20Salary.sql) | Medium |
 2019_01-17_180 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Department%20Top%20Three%20Salaries.sql) | Hard |
 2019_01-18_181 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java) | Hard |
+2019_01-19_182 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Bits.java) | Easy |
 
 
 
