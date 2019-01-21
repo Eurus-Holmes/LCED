@@ -191,6 +191,7 @@ index | Title | Solution | Difficulty |
 2019_01-18_181 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java) | Hard |
 2019_01-19_182 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Reverse%20Bits.java) | Easy |
 2019_01-20_183 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Number%20of%201%20Bits.java) | Easy |
+2019_01-21_184 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Bash](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Frequency.bash) | Medium |
 
 
 
