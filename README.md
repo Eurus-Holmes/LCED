@@ -195,6 +195,8 @@ index | Title | Solution | Difficulty |
 2019_01-22_185 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Phone%20Numbers.bash) | Easy |
 2019_01-23_186 | [Transpose File](https://leetcode.com/problems/transpose-file/) | [Bash](https://github.com/Eurus-Holmes/LCED/blob/master/Transpose%20File.bash) | Medium |
 2019_01-24_187 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Bash](https://github.com/Eurus-Holmes/LCED/blob/master/Tenth%20Line.bash) | Easy |
+2019_01-25_188 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Delete%20Duplicate%20Emails.sql) | Easy |
+
 
 
 
