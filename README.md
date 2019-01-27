@@ -198,6 +198,7 @@ index | Title | Solution | Difficulty |
 2019_01-25_188 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Delete%20Duplicate%20Emails.sql) | Easy |
 2019_01-25_189 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Rising%20Temperature.sql) | Easy |
 2019_01-25_190 | [House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/House%20Robber.java) | Easy |
+2019_01-26_191 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Right%20Side%20View.java) | Medium |
 
 
 
