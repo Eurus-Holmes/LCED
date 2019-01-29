@@ -200,6 +200,7 @@ index | Title | Solution | Difficulty |
 2019_01-25_190 | [House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/House%20Robber.java) | Easy |
 2019_01-26_191 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Right%20Side%20View.java) | Medium |
 2019_01-27_192 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/Eurus-Holmes/LCED/blob/master/Number%20of%20Islands.java) | Medium |
+2019_01-28_193 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Bitwise%20AND%20of%20Numbers%20Range.py) | Medium |
 
 
 
