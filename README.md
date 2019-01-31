@@ -203,3 +203,4 @@ index | Title | Solution | Difficulty |
 2019_01-28_193 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Bitwise%20AND%20of%20Numbers%20Range.py) | Medium |
 2019_01-29_194 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Happy%20Number.py) | Easy |
 2019_01-30_195 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Linked%20List%20Elements.py) | Easy |
+2019_01-31_196 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Count%20Primes.py) | Easy |
