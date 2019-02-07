@@ -210,6 +210,7 @@ index | Title | Solution | Difficulty |
 2019_02-04_200 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Implement%20Trie%20(Prefix%20Tree).py) | Medium |
 2019_02-05_201 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Size%20Subarray%20Sum.py) | Medium |
 2019_02-06_202 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Course%20Schedule%20II.py) | Medium |
+2019_02-07_203 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20and%20Search%20Word%20-%20Data%20structure%20design.py) | Medium |
 
 
 
