@@ -213,6 +213,7 @@ index | Title | Solution | Difficulty |
 2019_02-07_203 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20and%20Search%20Word%20-%20Data%20structure%20design.py) | Medium |
 2019_02-08_204 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Search%20II.py) | Hard |
 2019_02-09_205 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/House%20Robber%20II.py) | Medium |
+2019_02-10_206 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Shortest%20Palindrome.py) | Hard |
 
 
 
