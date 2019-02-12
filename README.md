@@ -215,6 +215,7 @@ index | Title | Solution | Difficulty |
 2019_02-09_205 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/House%20Robber%20II.py) | Medium |
 2019_02-10_206 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Shortest%20Palindrome.py) | Hard |
 2019_02-11_207 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Kth%20Largest%20Element%20in%20an%20Array.py) | Medium |
+2019_02-12_208 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combination%20Sum%20III.py) | Medium |
 
 
 
