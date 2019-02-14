@@ -217,6 +217,7 @@ index | Title | Solution | Difficulty |
 2019_02-11_207 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Kth%20Largest%20Element%20in%20an%20Array.py) | Medium |
 2019_02-12_208 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Combination%20Sum%20III.py) | Medium |
 2019_02-13_209 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Contains%20Duplicate.py) | Easy |
+2019_02-14_210 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/The%20Skyline%20Problem.py) | Hard |
 
 
 
