@@ -236,6 +236,7 @@ index | Title | Solution | Difficulty |
 2019_03-02_226 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Linked%20List.py) | Easy |
 2019_03-03_227 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py) | Easy |
 2019_03-04_228 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py) | Medium |
+2019_03-05_229 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Delete%20Node%20in%20a%20Linked%20List.py) | Easy |
 
 
 
