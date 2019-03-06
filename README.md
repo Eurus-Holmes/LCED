@@ -1,7 +1,15 @@
 # LCED 
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
  
-![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=plastic) ![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=plastic) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Eurus-Holmes/LCED.svg?style=plastic)
+![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=plastic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Eurus-Holmes/LCED.svg?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Eurus-Holmes/LCED.svg?style=plastic)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Eurus-Holmes/LCED.svg?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Eurus-Holmes/LCED.svg)
+![Twitter URL](https://img.shields.io/twitter/url/https/chenfeiyang2018.svg?style=social)
+
 
 
 -----
