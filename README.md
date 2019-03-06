@@ -1,7 +1,7 @@
 # LCED 
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
-![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg)
+![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
 ![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor) 
 ![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
