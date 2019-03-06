@@ -1,4 +1,6 @@
-# LCED
+# LCED 
+![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
+ 
 ![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=plastic) ![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)
 
 
