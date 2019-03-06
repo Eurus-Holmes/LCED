@@ -1,4 +1,8 @@
 # LCED
+![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=plastic) ![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)
+
+
+-----
 Programmers are in a race with the Universe to create bigger and better idiot-proof programs, 
 
 while the Universe is trying to create bigger and better idiots :zap:.
