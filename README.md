@@ -2,12 +2,11 @@
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
 ![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
-![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor) 
 ![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
+![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![follow](https://img.shields.io/badge/flow-%40Eurus--Holmes-blueviolet.svg?style=flat&logo=appveyor)
-![Twitter URL](https://img.shields.io/twitter/url/https/chenfeiyang2018.svg?style=social?style=flat&logo=appveyor)
+![twitter](https://img.shields.io/badge/twitter-%40Feiyang%20Chen-success.svg?style=flat&logo=appveyor)
 
 
 
