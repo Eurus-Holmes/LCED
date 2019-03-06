@@ -6,6 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
+![follow](https://img.shields.io/badge/flow-%40Eurus--Holmes-blueviolet.svg?style=flat&logo=appveyor)
 ![Twitter URL](https://img.shields.io/twitter/url/https/chenfeiyang2018.svg?style=social?style=flat&logo=appveyor)
 
 
