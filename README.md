@@ -254,6 +254,7 @@ index | Title | Solution | Difficulty |
 2019_03-08_232 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Search%20a%202D%20Matrix%20II.py) | Medium |
 2019_03-09_233 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Different%20Ways%20to%20Add%20Parentheses.py) | Medium |
 2019_03-10_234 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Anagram.py) | Easy |
+2019_03-11_235 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Tree%20Paths.py) | Easy |
 
 
 
