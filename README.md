@@ -258,6 +258,7 @@ index | Title | Solution | Difficulty |
 2019_03-12_236 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20Digits.py) | Easy |
 2019_03-13_237 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Single%20Number%20III.py) | Medium |
 2019_03-14_238 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MySQL](https://github.com/Eurus-Holmes/LCED/blob/master/Trips%20and%20Users.sql) | Hard |
+2019_03-15_239 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Ugly%20Number.py) | Easy |
 
 
 
