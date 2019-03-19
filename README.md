@@ -1,4 +1,4 @@
-# LCED 
+# LCED (LeetCode EveryDay :octocat:)
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
 ![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
