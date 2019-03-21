@@ -264,6 +264,7 @@ index | Title | Solution | Difficulty |
 2019_03-18_242 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Integer%20to%20English%20Words.py) | Hard |
 2019_03-19_243 | [H-Index](https://leetcode.com/problems/h-index/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/H-Index.py) | Medium |
 2019_03-20_244 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/H-Index%20II.py) | Medium |
+2019_03-21_245 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/First%20Bad%20Version.py) | Easy |
 
 
 
