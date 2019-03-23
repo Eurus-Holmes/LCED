@@ -266,6 +266,7 @@ index | Title | Solution | Difficulty |
 2019_03-20_244 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/H-Index%20II.py) | Medium |
 2019_03-21_245 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/First%20Bad%20Version.py) | Easy |
 2019_03-22_246 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Perfect%20Squares.py) | Medium |
+2019_03-23_247 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Expression%20Add%20Operators.py) | Hard |
 
 
 
