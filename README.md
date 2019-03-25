@@ -268,6 +268,7 @@ index | Title | Solution | Difficulty |
 2019_03-22_246 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Perfect%20Squares.py) | Medium |
 2019_03-23_247 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Expression%20Add%20Operators.py) | Hard |
 2019_03-24_248 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Move%20Zeroes.py) | Easy |
+2019_03-25_249 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Peeking%20Iterator.py) | Medium |
 
 
 
