@@ -270,6 +270,7 @@ index | Title | Solution | Difficulty |
 2019_03-24_248 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Move%20Zeroes.py) | Easy |
 2019_03-25_249 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Peeking%20Iterator.py) | Medium |
 2019_03-26_250 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20the%20Duplicate%20Number.py) | Medium |
+2019_03-27_251 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Game%20of%20Life.py) | Medium |
 
 
 
