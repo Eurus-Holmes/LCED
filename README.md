@@ -273,6 +273,7 @@ index | Title | Solution | Difficulty |
 2019_03-27_251 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Game%20of%20Life.py) | Medium |
 2019_03-28_252 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Word%20Pattern.py) | Easy |
 2019_03-29_253 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Nim%20Game.py) | Easy |
+2019_03-30_254 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Median%20from%20Data%20Stream.py) | Hard |
 
 
 
