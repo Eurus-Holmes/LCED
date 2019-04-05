@@ -277,6 +277,7 @@ index | Title | Solution | Difficulty |
 2019_03-31_255 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Serialize%20and%20Deserialize%20Binary%20Tree.py) | Hard |
 2019_04-01_256 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Bulls%20and%20Cows.py) | Medium |
 2019_04-02_257 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Increasing%20Subsequence.py) | Medium |
+2019_04-02_257 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Invalid%20Parentheses.py) | Hard |
 
 
 
