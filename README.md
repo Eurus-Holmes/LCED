@@ -282,6 +282,7 @@ index | Title | Solution | Difficulty |
 2019_04-04_259 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Range%20Sum%20Query%202D%20-%20Immutable.py) | Medium |
 2019_04-05_260 | [Additive Number](https://leetcode.com/problems/additive-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Additive%20Number.py) | Medium |
 2019_04-06_261 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Range%20Sum%20Query%20-%20Mutable.py) | Medium |
+2019_04-07_262 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py) | Medium |
 
 
 
