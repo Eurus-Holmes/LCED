@@ -284,6 +284,8 @@ index | Title | Solution | Difficulty |
 2019_04-06_261 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Range%20Sum%20Query%20-%20Mutable.py) | Medium |
 2019_04-07_262 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py) | Medium |
 2019_04-08_263 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Height%20Trees.py) | Medium |
+2019_04-09_264 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Burst%20Balloons.py) | Hard |
+
 
 
 
