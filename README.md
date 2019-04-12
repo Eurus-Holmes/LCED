@@ -287,6 +287,8 @@ index | Title | Solution | Difficulty |
 2019_04-09_264 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Burst%20Balloons.py) | Hard |
 2019_04-10_265 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Super%20Ugly%20Number.py) | Medium |
 2019_04-11_266 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Count%20of%20Smaller%20Numbers%20After%20Self.py) | Hard |
+2019_04-12_267 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicate%20Letters.py) | Hard |
+
 
 
 
