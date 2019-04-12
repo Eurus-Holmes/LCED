@@ -7,6 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![follow](https://img.shields.io/badge/follow-%40Eurus--Holmes-blueviolet.svg?style=flat&logo=appveyor)
 ![twitter](https://img.shields.io/badge/twitter-%40Feiyang%20Chen-success.svg?style=flat&logo=appveyor)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 
 
