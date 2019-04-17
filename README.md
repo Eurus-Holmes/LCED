@@ -291,7 +291,7 @@ index | Title | Solution | Difficulty |
 2019_04-12_267 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20Duplicate%20Letters.py) | Hard |
 2019_04-13_268 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20Product%20of%20Word%20Lengths.py) | Medium |
 2019_04-14_269 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Bulb%20Switcher.py) | Medium |
-
+2019_04-15_270 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Create%20Maximum%20Number.py) | Hard |
 
 
 
