@@ -294,6 +294,7 @@ index | Title | Solution | Difficulty |
 2019_04-15_270 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Create%20Maximum%20Number.py) | Hard |
 2019_04-16_271 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Coin%20Change.py) | Medium |
 2019_04-17_272 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Wiggle%20Sort%20II.py) | Medium |
+2019_04-18_273 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Power%20of%20Three.py) | Easy |
 
 
 
