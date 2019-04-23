@@ -299,6 +299,7 @@ index | Title | Solution | Difficulty |
 2019_04-20_275 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Odd%20Even%20Linked%20List.py) | Medium |
 2019_04-21_276 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Increasing%20Path%20in%20a%20Matrix.py) | Hard |
 2019_04-22_277 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Patching%20Array.py) | Hard |
+2019_04-23_278 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.py) | Medium |
 
 
 
