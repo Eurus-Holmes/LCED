@@ -300,6 +300,7 @@ index | Title | Solution | Difficulty |
 2019_04-21_276 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Increasing%20Path%20in%20a%20Matrix.py) | Hard |
 2019_04-22_277 | [Patching Array](https://leetcode.com/problems/patching-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Patching%20Array.py) | Hard |
 2019_04-23_278 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.py) | Medium |
+2019_04-24_279 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reconstruct%20Itinerary.py) | Medium |
 
 
 
