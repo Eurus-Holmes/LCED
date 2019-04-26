@@ -307,6 +307,7 @@ index | Title | Solution | Difficulty |
 2019_04-23_278 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.py) | Medium |
 2019_04-24_279 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reconstruct%20Itinerary.py) | Medium |
 2019_04-25_280 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Increasing%20Triplet%20Subsequence.py) | Medium |
+2019_04-26_281 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Self%20Crossing.py) | Hard |
 
 
 
