@@ -7,6 +7,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![follow](https://img.shields.io/badge/follow-%40Eurus--Holmes-blueviolet.svg?style=flat&logo=appveyor)
 ![twitter](https://img.shields.io/badge/twitter-%40Feiyang%20Chen-success.svg?style=flat&logo=appveyor)
+![rank](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Leetcode%20|%20Ranking-{{.ranking}}-green.svg)
+![question](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Solved/Total-{{.solved_question}}/{{.all_question}}-green.svg)
+![submission](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Accepted/Total-{{.accepted_submission}}/{{.all_submission}}-green.svg)
+![question_rate](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Leetcode%20|%20Question-{{.solved_question_rate}}-{{%20if%20le%20.solved_question_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}yellow{{%20else%20}}green{{%20end%20}}.svg)
+![submission_rate](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Leetcode%20|%20Submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}yellow{{%20else%20}}green{{%20end%20}}.svg)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 
