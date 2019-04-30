@@ -311,6 +311,7 @@ index | Title | Solution | Difficulty |
 2019_04-27_282 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Palindrome%20Pairs.py) | Hard |
 2019_04-28_283 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/House%20Robber%20III.py) | Medium |
 2019_04-29_284 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Counting%20Bits.py) | Medium |
+2019_04-30_285 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Flatten%20Nested%20List%20Iterator.py) | Medium |
 
 
 
