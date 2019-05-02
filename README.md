@@ -313,6 +313,7 @@ index | Title | Solution | Difficulty |
 2019_04-29_284 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Counting%20Bits.py) | Medium |
 2019_04-30_285 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Flatten%20Nested%20List%20Iterator.py) | Medium |
 2019_05-01_286 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Power%20of%20Four.py) | Easy |
+2019_05-02_287 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Integer%20Break.py) | Medium |
 
 
 
