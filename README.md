@@ -321,6 +321,7 @@ index | Title | Solution | Difficulty |
 2019_05-07_292 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Intersection%20of%20Two%20Arrays%20II.py) | Easy |
 2019_05-08_293 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Data%20Stream%20as%20Disjoint%20Intervals.py) | Hard |
 2019_05-09_294 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Russian%20Doll%20Envelopes.py) | Hard |
+2019_05-10_295 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Design%20Twitter.py) | Medium |
 
 
 
