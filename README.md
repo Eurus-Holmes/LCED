@@ -324,6 +324,7 @@ index | Title | Solution | Difficulty |
 2019_05-10_295 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Design%20Twitter.py) | Medium |
 2019_05-11_296 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Count%20Numbers%20with%20Unique%20Digits.py) | Medium |
 2019_05-12_297 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.py) | Hard |
+2019_05-13_298 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Water%20and%20Jug%20Problem.py) | Medium |
 
 
 
