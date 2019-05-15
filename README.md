@@ -327,6 +327,7 @@ index | Title | Solution | Difficulty |
 2019_05-13_298 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Water%20and%20Jug%20Problem.py) | Medium |
 2019_05-14_299 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Valid%20Perfect%20Square.py) | Easy |
 2019_05-15_300 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Largest%20Divisible%20Subset.py) | Medium |
+2019_05-16_301 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Sum%20of%20Two%20Integers.py) | Easy |
 
 
 
