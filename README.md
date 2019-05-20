@@ -331,6 +331,8 @@ index | Title | Solution | Difficulty |
 2019_05-17_302 | [Super Pow](https://leetcode.com/problems/super-pow/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Super%20Pow.py) | Medium |
 2019_05-18_303 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20K%20Pairs%20with%20Smallest%20Sums.py) | Medium |
 2019_05-19_304 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Guess%20Number%20Higher%20or%20Lower.py) | Easy |
+2019_05-20_305 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Guess%20Number%20Higher%20or%20Lower%20II.py) | Medium |
+
 
 
 
