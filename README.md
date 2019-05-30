@@ -339,6 +339,7 @@ index | Title | Solution | Difficulty |
 2019_05-25_310 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
 2019_05-26_311 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Linked%20List%20Random%20Node.py) | Medium |
 2019_05-27_312 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Ransom%20Note.py) | Easy |
+2019_05-28_313 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Shuffle%20an%20Array.py) | Medium |
 
 
 
