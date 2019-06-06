@@ -346,30 +346,7 @@ index | Title | Solution | Difficulty |
 2019_06-01_317 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Absolute%20File%20Path.py) | Medium |
 2019_06-02_318 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20the%20Difference.py) | Easy |
 2019_06-03_319 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Elimination%20Game.py) | Medium |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2019_06-04_320 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Perfect%20Rectangle.py) | Hard |
 
 
 
