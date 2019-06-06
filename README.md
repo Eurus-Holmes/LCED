@@ -344,6 +344,7 @@ index | Title | Solution | Difficulty |
 2019_05-30_315 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Lexicographical%20Numbers.py) | Medium |
 2019_05-31_316 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/First%20Unique%20Character%20in%20a%20String.py) | Easy |
 2019_06-01_317 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Absolute%20File%20Path.py) | Medium |
+2019_06-02_318 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20the%20Difference.py) | Easy |
 
 
 
