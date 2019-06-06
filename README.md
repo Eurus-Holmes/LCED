@@ -349,7 +349,7 @@ index | Title | Solution | Difficulty |
 2019_06-04_320 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Perfect%20Rectangle.py) | Hard |
 2019_06-05_321 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Is%20Subsequence.py) | Medium |
 2019_06-06_322 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/UTF-8%20Validation.py) | Medium |
-
+2019_06-07_323 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Decode%20String.py) | Medium |
 
 
 
