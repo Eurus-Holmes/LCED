@@ -351,6 +351,8 @@ index | Title | Solution | Difficulty |
 2019_06-06_322 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/UTF-8%20Validation.py) | Medium |
 2019_06-07_323 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Decode%20String.py) | Medium |
 2019_06-08_324 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.py) | Medium |
+2019_06-09_325 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Function.py) | Medium |
+
 
 
 
