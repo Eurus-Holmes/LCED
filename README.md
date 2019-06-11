@@ -353,6 +353,7 @@ index | Title | Solution | Difficulty |
 2019_06-08_324 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.py) | Medium |
 2019_06-09_325 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Function.py) | Medium |
 2019_06-10_326 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Integer%20Replacement.py) | Medium |
+2019_06-11_327 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Random%20Pick%20Index.py) | Medium |
 
 
 
