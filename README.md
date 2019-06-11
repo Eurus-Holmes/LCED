@@ -354,6 +354,8 @@ index | Title | Solution | Difficulty |
 2019_06-09_325 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Rotate%20Function.py) | Medium |
 2019_06-10_326 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Integer%20Replacement.py) | Medium |
 2019_06-11_327 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Random%20Pick%20Index.py) | Medium |
+2019_06-12_328 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Evaluate%20Division.py) | Medium |
+
 
 
 
