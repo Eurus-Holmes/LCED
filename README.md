@@ -359,6 +359,7 @@ index | Title | Solution | Difficulty |
 2019_06-14_330 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Watch.py) | Easy |
 2019_06-15_331 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Remove%20K%20Digits.py) | Medium |
 2019_06-16_332 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Frog%20Jump.py) | Hard |
+2019_06-17_333 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Sum%20of%20Left%20Leaves.py) | Easy |
 
 
 
