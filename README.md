@@ -356,6 +356,8 @@ index | Title | Solution | Difficulty |
 2019_06-11_327 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Random%20Pick%20Index.py) | Medium |
 2019_06-12_328 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Evaluate%20Division.py) | Medium |
 2019_06-13_329 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Nth%20Digit.py) | Easy |
+2019_06-14_330 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Binary%20Watch.py) | Easy |
+
 
 
 
