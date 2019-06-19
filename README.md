@@ -361,6 +361,7 @@ index | Title | Solution | Difficulty |
 2019_06-16_332 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Frog%20Jump.py) | Hard |
 2019_06-17_333 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Sum%20of%20Left%20Leaves.py) | Easy |
 2019_06-18_334 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Convert%20a%20Number%20to%20Hexadecimal.py) | Easy |
+2019_06-19_335 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Queue%20Reconstruction%20by%20Height.py) | Medium |
 
 
 
