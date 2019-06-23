@@ -365,6 +365,7 @@ index | Title | Solution | Difficulty |
 2019_06-20_336 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Trapping%20Rain%20Water%20II.py) | Hard |
 2019_06-21_337 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Palindrome.py) | Easy |
 2019_06-22_338 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Split%20Array%20Largest%20Sum.py) | Hard |
+2019_06-23_339 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Fizz%20Buzz.py) | Easy |
 
 
 
