@@ -368,6 +368,23 @@ index | Title | Solution | Difficulty |
 2019_06-23_339 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Fizz%20Buzz.py) | Easy |
 2019_06-24_340 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Arithmetic%20Slices.py) | Medium |
 2019_06-25_341 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Third%20Maximum%20Number.py) | Easy |
+2019_06-26_342 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20Strings.py) | Easy |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
