@@ -372,6 +372,7 @@ index | Title | Solution | Difficulty |
 2019_06-27_343 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Partition%20Equal%20Subset%20Sum.py) | Medium |
 2019_06-28_344 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Pacific%20Atlantic%20Water%20Flow.py) | Medium |
 2019_06-29_345 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Battleships%20in%20a%20Board.py) | Medium |
+2019_06-30_346 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Strong%20Password%20Checker.py) | Hard |
 
 
 
