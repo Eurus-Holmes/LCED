@@ -377,11 +377,7 @@ index | Title | Solution | Difficulty |
 2019_07-02_348 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reconstruct%20Original%20Digits%20from%20English.py) | Medium |
 2019_07-03_349 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Repeating%20Character%20Replacement.py) | Medium |
 2019_07-04_350 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Construct%20Quad%20Tree.py) | Medium |
-
-
-
-
-
+2019_07-05_351 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/N-ary%20Tree%20Level%20Order%20Traversal.py) | Easy |
 
 
 
