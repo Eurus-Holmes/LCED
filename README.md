@@ -376,6 +376,7 @@ index | Title | Solution | Difficulty |
 2019_07-01_347 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.py) | Medium |
 2019_07-02_348 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reconstruct%20Original%20Digits%20from%20English.py) | Medium |
 2019_07-03_349 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Repeating%20Character%20Replacement.py) | Medium |
+2019_07-04_350 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Construct%20Quad%20Tree.py) | Medium |
 
 
 
