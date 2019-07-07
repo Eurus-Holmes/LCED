@@ -378,6 +378,8 @@ index | Title | Solution | Difficulty |
 2019_07-03_349 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Longest%20Repeating%20Character%20Replacement.py) | Medium |
 2019_07-04_350 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Construct%20Quad%20Tree.py) | Medium |
 2019_07-05_351 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/N-ary%20Tree%20Level%20Order%20Traversal.py) | Easy |
+2019_07-06_352 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.py) | Medium |
+
 
 
 
