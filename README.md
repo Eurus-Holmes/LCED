@@ -374,7 +374,7 @@ index | Title | Solution | Difficulty |
 2019_06-29_345 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Battleships%20in%20a%20Board.py) | Medium |
 2019_06-30_346 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Strong%20Password%20Checker.py) | Hard |
 2019_07-01_347 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.py) | Medium |
-
+2019_07-02_348 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Reconstruct%20Original%20Digits%20from%20English.py) | Medium |
 
 
 
