@@ -381,6 +381,7 @@ index | Title | Solution | Difficulty |
 2019_07-06_352 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Flatten%20a%20Multilevel%20Doubly%20Linked%20List.py) | Medium |
 2019_07-07_353 | [All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/All%20O%60one%20Data%20Structure.py) | Hard |
 2019_07-08_354 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Minimum%20Genetic%20Mutation.py) | Medium |
+2019_07-09_355 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Number%20of%20Segments%20in%20a%20String.py) | Easy |
 
 
 
