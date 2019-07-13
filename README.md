@@ -385,8 +385,7 @@ index | Title | Solution | Difficulty |
 2019_07-10_356 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Non-overlapping%20Intervals.py) | Medium |
 2019_07-11_357 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Right%20Interval.py) | Medium |
 2019_07-12_358 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Path%20Sum%20III.py) | Easy |
-
-
+2019_07-13_359 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20All%20Anagrams%20in%20a%20String.py) | Easy |
 
 
 
