@@ -386,7 +386,7 @@ index | Title | Solution | Difficulty |
 2019_07-11_357 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20Right%20Interval.py) | Medium |
 2019_07-12_358 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Path%20Sum%20III.py) | Easy |
 2019_07-13_359 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20All%20Anagrams%20in%20a%20String.py) | Easy |
-
+2019_07-14_360 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/K-th%20Smallest%20in%20Lexicographical%20Order.py) | Hard |
 
 
 
