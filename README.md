@@ -392,10 +392,7 @@ index | Title | Solution | Difficulty |
 2019_07-17_363 | [String Compression](https://leetcode.com/problems/string-compression/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/String%20Compression.py) | Easy |
 2019_07-18_364 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Add%20Two%20Numbers%20II.py) | Medium |
 2019_07-19_365 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Arithmetic%20Slices%20II%20-%20Subsequence.py) | Hard |
-
-
-
-
+2019_07-20_366 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Number%20of%20Boomerangs.py) | Easy |
 
 
 
