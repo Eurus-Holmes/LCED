@@ -394,6 +394,6 @@ index | Title | Solution | Difficulty |
 2019_07-19_365 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Arithmetic%20Slices%20II%20-%20Subsequence.py) | Hard |
 2019_07-20_366 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Number%20of%20Boomerangs.py) | Easy |
 2019_07-21_367 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy |
-
+2019_07-22_368 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Serialize%20and%20Deserialize%20BST.py) | Medium |
 
 
