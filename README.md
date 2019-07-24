@@ -396,5 +396,5 @@ index | Title | Solution | Difficulty |
 2019_07-21_367 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Easy |
 2019_07-22_368 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Serialize%20and%20Deserialize%20BST.py) | Medium |
 2019_07-23_369 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Delete%20Node%20in%20a%20BST.py) | Medium |
-
+2019_07-24_370 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Python](https://github.com/Eurus-Holmes/LCED/blob/master/Sort%20Characters%20By%20Frequency.py) | Medium |
 
