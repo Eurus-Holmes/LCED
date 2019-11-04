@@ -1,7 +1,6 @@
 # LCED (LeetCode EveryDay)
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
-[![Build Status](https://travis-ci.com/Eurus-Holmes/LCED.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/LCED)
 ![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
 ![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor) 
@@ -13,6 +12,7 @@
 ![submission](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Accepted/Total-{{.accepted_submission}}/{{.all_submission}}-green.svg)
 ![question_rate](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Leetcode%20|%20Question-{{.solved_question_rate}}-{{%20if%20le%20.solved_question_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}yellow{{%20else%20}}green{{%20end%20}}.svg)
 ![submission_rate](https://leetcode-badge.chyroc.cn/?name=Eurus-Holmes&leetcode_badge_style=Leetcode%20|%20Submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}yellow{{%20else%20}}green{{%20end%20}}.svg)
+[![Build Status](https://travis-ci.com/Eurus-Holmes/LCED.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/LCED)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 
