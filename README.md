@@ -1,4 +1,4 @@
-# LCED (LeetCode EveryDay :octocat:)
+# LCED (LeetCode EveryDay)
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
 ![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
@@ -19,7 +19,7 @@
 -----
 Programmers are in a race with the Universe to create bigger and better idiot-proof programs, 
 
-while the Universe is trying to create bigger and better idiots :zap:.
+while the Universe is trying to create bigger and better idiots.
 
 
 index | Title | Solution | Difficulty |
