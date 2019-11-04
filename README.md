@@ -1,6 +1,7 @@
 # LCED (LeetCode EveryDay)
 ![Figure 3](https://github.com/Eurus-Holmes/LCED/raw/master/images/LeetCode.png)
 
+[![Build Status](https://travis-ci.com/Eurus-Holmes/LCED.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/LCED)
 ![LCED](https://img.shields.io/badge/LeetCode-EveryDay-brightgreen.svg?style=flat&logo=appveyor)
 ![GitHub](https://img.shields.io/github/license/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor)
 ![GitHub language count](https://img.shields.io/github/languages/count/Eurus-Holmes/LCED.svg?style=flat&logo=appveyor) 
